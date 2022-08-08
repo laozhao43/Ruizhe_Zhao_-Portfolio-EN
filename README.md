@@ -10,7 +10,7 @@ Projects
 的旋转动能，武器尖端线速度可以达到 100km/h
 * Seattle Bot Battles 比赛战绩：3 赢 2 输
 
-![](/images/positions_by_state.png)
+![](/images/最终.png)
 
 
 # [Project 2: ](https://github.com/PlayingNumbers/ball_image_classifier) 
