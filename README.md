@@ -1,5 +1,5 @@
 # Ruizhe Zhao Portfolio
-Projects
+# [中英文简历PDF](https://github.com/laozhao43/Meltybrain_Bot_CNMB) 
 
 # [Project 1: Meltybrain格斗机器人](https://github.com/laozhao43/Meltybrain_Bot_CNMB) 
 * 设计并建造 1.36kg 级别格斗机器人，移动方式为旋转平移
