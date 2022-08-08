@@ -1,6 +1,6 @@
 # Ruizhe Zhao Portfolio
-## [中英文简历PDF](https://github.com/laozhao43/Ruizhe_Zhao_Portfolio/tree/main/Resume_pdfs) 
-
+## [中文简历PDF](https://github.com/laozhao43/Ruizhe_Zhao_Portfolio/tree/main/Resume_pdfs) 
+## [英文简历PDF](## [中英文简历PDF](https://github.com/laozhao43/Ruizhe_Zhao_Portfolio/tree/main/Resume_pdfs) ) 
 # [Project 1: Meltybrain格斗机器人](https://github.com/laozhao43/Meltybrain_Bot_CNMB) 
 * 设计并建造 1.36kg 级别格斗机器人，移动方式为旋转平移
 * 用 Arduino 编程，读取传感器和接收机信号。算法会根据传感器数据计算出当前转速和当前朝向并控
