@@ -18,3 +18,8 @@
 * 同时尝试了其他方法比如梯度提升决策树和 LASSO 回归
 * 线性回归的误差最低，计算量较小，在 10 小时的测试数据集中，预估能量消耗误差为 4%
 ![](/images/PA1.PNG)
+
+# [Project 3：自适应控制](https://github.com/laozhao43/AdaptiveControl) 
+* 基于 Parameter Adaptation Algorithm 和最小二乘的思想达成消噪和抗干扰
+* 推导关键公式，在 MATLAB 中复现论文中的功能，其中的系统能抵抗恒定或持续变化频率的震动
+![](/images/585.PNG)
