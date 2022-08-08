@@ -12,7 +12,7 @@
 
 ![](/images/最终.png)
 
-# [Project 2: PACCAR 电动卡车里程估计](https://github.com/laozhao43/Meltybrain_Bot_CNMB) 
+# [Project 2: PACCAR 电动卡车里程估计](https://github.com/laozhao43/PACCAR_Capston_Project/blob/main/MD_and_HD_Vehicle_Range_Estimation_Final_Report.pdf) 
 * 用 MATLAB 编写一个根据卡车行驶数据预测行驶里程的程序
 * 基于卡车的物理模型，使用线性回归预估常数量，并计算出卡车功耗，并与理论值对比
 * 同时尝试了其他方法比如梯度提升决策树和 LASSO 回归
