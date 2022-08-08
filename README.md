@@ -24,3 +24,6 @@
 * 推导关键公式，在 MATLAB 中复现论文中的功能，其中的系统能抵抗恒定或持续变化频率的震动
 
 <img src="images/585.PNG" width="500">
+# [实习: 智能锂电池充电器]
+![image](https://user-images.githubusercontent.com/64048267/183526760-7a5d04e2-f76c-43dd-8f5c-fd73aa376868.png)
+![image](https://user-images.githubusercontent.com/64048267/183526777-d102f576-b05b-4a96-903d-f4e50cf70abd.png)
