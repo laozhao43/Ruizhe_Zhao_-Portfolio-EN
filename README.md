@@ -23,4 +23,4 @@
 * 基于 Parameter Adaptation Algorithm 和最小二乘的思想达成消噪和抗干扰
 * 推导关键公式，在 MATLAB 中复现论文中的功能，其中的系统能抵抗恒定或持续变化频率的震动
 
-<img src="images/585.PNG" width="200">
+<img src="images/585.PNG" width="500">
