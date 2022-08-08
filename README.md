@@ -12,10 +12,11 @@
 
 ![](/images/最终.png)
 
+# [Project 2: PACCAR 电动卡车里程估计](https://github.com/laozhao43/Meltybrain_Bot_CNMB) 
+• 用 MATLAB 编写一个根据卡车行驶数据预测行驶里程的程序
+• 基于卡车的物理模型，使用线性回归预估常数量，并计算出卡车功耗，并与理论值对比
+• 同时尝试了其他方法比如梯度提升决策树和 LASSO 回归
+• 线性回归的误差最低，计算量较小，在 10 小时的测试数据集中，预估能量消耗误差为 4%
 
-# [Project 2: ](https://github.com/PlayingNumbers/ball_image_classifier) 
-For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities. 
 
-I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results. 
-
-![](/images/matrix_results.png)
+![](/images/最终.png)
