@@ -1,10 +1,11 @@
 # Ruizhe Zhao Portfolio
 
-## [中文简历PDF](https://github.com/laozhao43/Ruizhe_Zhao_Portfolio/blob/main/Resume_pdfs/%E8%B5%B5%E7%9D%BF%E5%93%B2_%E7%AE%80%E5%8E%86_DJI.pdf) 
+## [Resume PDF](https://github.com/laozhao43/Ruizhe_Zhao_-Portfolio-CN/blob/main/Resume_pdfs/Resume_Ruizhe_Zhao_715.pdf) 
 # [Project 1: Meltybrain格斗机器人](https://github.com/laozhao43/Meltybrain_Bot_CNMB) 
-* 设计并建造 1.36kg 级别格斗机器人，移动方式为旋转平移
+*  Designed and built a 3lb translational drift (Meltybrain) combat robot
 * 用 Arduino 编程，读取传感器和接收机信号。算法会根据传感器数据计算出当前转速和当前朝向并控
 制机器人在旋转的同时移动。通过蓝牙模块发送实时数据给电脑
+* Developed a programe in arduino to read 
 * 用 Python 处理回传数据，进行线性回归，并得出一组常数来校准加速计
 * 用 SOLIDWORKS 建模，并进行结构设计，受力分析和拓扑优化。机器人在满油门下可以储存 130J
 的旋转动能，武器尖端线速度可以达到 100km/h
