@@ -1,7 +1,7 @@
 # Ruizhe Zhao Portfolio
 
 ## [Resume PDF](https://github.com/laozhao43/Ruizhe_Zhao_-Portfolio-CN/blob/main/Resume_pdfs/Resume_Ruizhe_Zhao_715.pdf) 
-# [Project 1: Meltybrain格斗机器人](https://github.com/laozhao43/Meltybrain_Bot_CNMB) 
+# [Project 1: Meltybrain combat robot](https://github.com/laozhao43/Meltybrain_Bot_CNMB) 
 * Designed and built a 3lb translational drift (Meltybrain) combat robot
 * Wrote codes in Arduino that read sensors signal, compute robot angular velocity and heading, send real-time data
 via Bluetooth and control the robot motion
@@ -12,11 +12,14 @@ throttle it can store 130J of kinetic energy and blade tip speed at 80mph
 
 ![](/images/最终.png)
 
-# [Project 2: PACCAR 电动卡车里程估计](https://github.com/laozhao43/PACCAR_Capston_Project/blob/main/MD_and_HD_Vehicle_Range_Estimation_Final_Report.pdf) 
-* 用 MATLAB 编写一个根据卡车行驶数据预测行驶里程的程序
-* 基于卡车的物理模型，使用线性回归预估常数量，并计算出卡车功耗，并与理论值对比
-* 同时尝试了其他方法比如梯度提升决策树和 LASSO 回归
-* 线性回归的误差最低，计算量较小，在 10 小时的测试数据集中，预估能量消耗误差为 4%
+# [Project 2: PACCAR Vehicle Range Estimation](https://github.com/laozhao43/PACCAR_Capston_Project/blob/main/MD_and_HD_Vehicle_Range_Estimation_Final_Report.pdf) 
+* Developed a tool in MATLAB to estimate the range of electric truck using drive cycle data
+* Built a vehicle physics modeling using linear regression and boosted decision tress methods
+* Improved the training process by using CV partition that randomized the training samples
+* Modeled the current limit of the vehicle regenerative braking using polynomial fitting.
+* The trained model was verified on multiple test data sets to have 96% prediction accuracy of the energy
+consumption.
+
 ![](/images/PA1.PNG)
 
 # [Project 3：自适应控制](https://github.com/laozhao43/AdaptiveControl) 
