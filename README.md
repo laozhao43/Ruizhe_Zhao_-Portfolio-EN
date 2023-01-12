@@ -22,6 +22,12 @@ consumption.
 
 ![](/images/PA1.PNG)
 
+# [Project 3: Beaver Racing Baja SAE](https://github.com/laozhao43/PACCAR_Capston_Project/blob/main/MD_and_HD_Vehicle_Range_Estimation_Final_Report.pdf) 
+* Developed a system to estimate load on tie rod of a Baja race car at varies shock travel
+* Generated geometry data for existing suspension models from Solidworks by using Macro and Motion Simulation
+* Estimated the typical acceleration and weight distribution for different driving scenarios
+* Used MATLAB to calculate suspension link load by using matrix manipulation
+* Applied strain gauge on tie rod
 
 
 # Work Experience: Mechanical Engineer - Shenzhen Grepow Battery co. ltd 
