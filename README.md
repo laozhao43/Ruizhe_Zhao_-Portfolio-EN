@@ -22,17 +22,13 @@ consumption.
 
 ![](/images/PA1.PNG)
 
-# [Project 3：自适应控制](https://github.com/laozhao43/AdaptiveControl) 
-* 基于 Parameter Adaptation Algorithm 和最小二乘的思想达成消噪和抗干扰
-* 推导关键公式，在 MATLAB 中复现论文中的功能，其中的系统能抵抗恒定或持续变化频率的震动
 
-<img src="images/585.PNG" width="500">
 
-# 实习: 智能锂电池充电器
-* 设计智能锂电池充电器外壳，生成工程制图和渲染图，并 3d 打印手板
-* 外壳需要容纳屏幕，按键，波轮按键，散热器，风扇，接口，电源模块和 DC 模块
-* 根据市场部要求确定产品定位和外观。与电子工程师协调并最终化 PCB 设计
-* 了解了锂电池充电器和锂电池管理系统的基本原理
+# Work Experience: Mechanical Engineer - Shenzhen Grepow Battery co. ltd 
+* Designed and built a prototype of LiPo battery enclosure
+* Collaborated with electric engineer to finalize the PCB board layout and heat sink specification
+* Output photo-realistic rendering images and engineering drawings
+* Acquired knowledge on LiPo batteries and BMS
 
 ![image](https://user-images.githubusercontent.com/64048267/183526760-7a5d04e2-f76c-43dd-8f5c-fd73aa376868.png)
 ![image](https://user-images.githubusercontent.com/64048267/183526777-d102f576-b05b-4a96-903d-f4e50cf70abd.png)
