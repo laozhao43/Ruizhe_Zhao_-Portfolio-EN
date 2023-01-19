@@ -29,6 +29,7 @@ consumption.
 * Used MATLAB to calculate suspension link load by using matrix manipulation
 * Applied strain gauge on tie rod
 
+![](/images/baja2.png)
 
 # Work Experience: Mechanical Engineer - Shenzhen Grepow Battery co. ltd 
 * Designed and built a prototype of LiPo battery enclosure
